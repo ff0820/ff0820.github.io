@@ -15,15 +15,20 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
+I am currently a final-year master's student in the [Colledge of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by Prof. Min Zhu in [SCU VIS](https://scuvis.org/about/).
+Before that, I received my bachelor's degree in Computer Science and Technology from Sichuan University in 2021.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interests primarily revolve around human-computer interaction, interactive tools for data science, presentation support for computational notebooks.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- from template -->
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2023.03.01*: &nbsp;🎉🎉 Our paper Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration is accepted to CHI'2023. Check the pre-print here.
+- *2024.01.19*: &nbsp;🎉🎉 Our paper *** Computational Notebooks through Outlines is conditionally accepted to CHI' 2024.
+- *2023.03.03*: &nbsp;🎉🎉 Our paper Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration is accepted to CHI'2023. [Check the paper here.](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)
 
 
 # 📝 Publications 
@@ -31,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DSlide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)
+[Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)
 
 **Fengjie Wang**, Xuye Liu, Oujing Liu, Ali Neshati, Tengfei Ma, Min Zhu, Jian Zhao
 
