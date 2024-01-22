@@ -21,27 +21,29 @@ I am currently a final-year master's student in the [Colledge of Computer Scienc
 Before that, I received my bachelor's degree in Computer Science and Technology from Sichuan University in 2021.
 
 My research interests primarily revolve around human-computer interaction, interactive tools for data science, presentation support for computational notebooks.
-This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://vis.cse.ust.hk/index.html) at the Hong Kong University of Science and Technology, and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the University of Waterloo.
 
-<!-- from template -->
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://vis.cse.ust.hk/index.html) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
 
+<mark style="background-color: #96d1e9">I am looking for 2024 Fall PhD positions in Human-Computer Interaction and Visualization!</mark>
 
 # 🔥 News
-- *2024.01.19*: &nbsp;🎉🎉 Our paper *** Computational Notebooks through Outlines is conditionally accepted to CHI' 2024.
+- *2024.01.19*: &nbsp;🎉 Our paper *** Computational Notebooks through Outlines is conditionally accepted to CHI' 2024.
 - *2023.10.01*: &nbsp;🔥 Awarded the National Scholarship of China (Top 1%).
 - *2023.09.30*: &nbsp;🔥 Awarded the Outstanding Graduate Students of Sichuan Province.
-- *2023.03.03*: &nbsp;🎉🎉 Our paper Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration is accepted to CHI'2023. [Check the paper here.](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)
+- *2023.09.01*: &nbsp;🔥 Awarded the First Class Scholarship of Sichuan University for Graduate Students.
+- *2023.07.16*: &nbsp;🎉 Our paper *VideoPro: A Visual Analytics Approach for Interactive Video Programming* is accepted to **VIS'2023**. Congrats. to [Jianben He](https://jessiehe970311.github.io/). Check the paper [here](https://ieeexplore.ieee.org/abstract/document/10292616?casa_token=53ZRqOhT41cAAAAA:W4I9cl-2Op28eU5qNcSC7-_QHdXmh0I-9dU-FoBBrSlXepv1OcPRrB7OiB2L_wu4RZ_-mG7Ncg).
+- *2023.03.03*: &nbsp;🎉 Our paper *Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration* is accepted to **CHI'2023**. Check the paper [here](https://dl.acm.org/doi/abs/10.1145/3544548.3580753).
 
 
 # 📝 Publications 
 † indicates equal contribution.
 
+<!-- 23_slide4n -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2023</div>
-      <img src='images/slide4n.png' width="100%">
+      <img src='images/23_slide4n.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -51,21 +53,22 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
   ACM CHI Conference on Human Factors in Computing Systems, 2023 (CHI 2023).
 
-  <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3544548.3580753">PDF</a>
+  [PDF](papers/23_slide4n.pdf)
   |
-  <a href="https://www.youtube.com/watch?v=5RP9ADh3mSg">Demo</a>
+  [Demo](https://www.youtube.com/watch?v=5RP9ADh3mSg)
   |
-  <a href="https://www.youtube.com/watch?v=poS27Ju4LAw">Preview</a>
+  [Preview](https://www.youtube.com/watch?v=poS27Ju4LAw)
   |
-  <a href="https://www.youtube.com/watch?v=8srkyc7Utr8&t=3s">Presentation</a>
+  [Presentation](https://www.youtube.com/watch?v=8srkyc7Utr8&t=3s)
   </div>
 </div>
 
+<!-- 23_videopro -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">VIS 2023</div>
-      <img src='images/videopro.png' width="100%">
+      <img src='images/23_videopro.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -75,47 +78,126 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
   IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
 
-  <a target="_blank" href="papers/videopro_vis2023.pdf">PDF</a>
+  [PDF](papers/23_videopro.pdf)
   |
-  <a href="https://www.youtube.com/watch?v=FCb64peiqBA">Preview</a>
+  [Preview](https://www.youtube.com/watch?v=FCb64peiqBA)
   |
-  <a href="https://www.youtube.com/watch?v=Hn2_KqSMDaY">Presentation</a>
+  [Presentation](https://www.youtube.com/watch?v=Hn2_KqSMDaY)
   </div>
 </div>
 
-
-<!-- from template -->
-<!-- <div class='paper-box'>
+<!-- 23_GBDT4CTRVis -->
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2016</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <!-- <div class="badge">CHI 2023</div> -->
+      <img src='images/23_GBDT4CTRVis.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)
+  GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction
 
-  **Fengjie Wang**, Xuye Liu, Oujing Liu, Ali Neshati, Tengfei Ma, Min Zhu, Jian Zhao
+  Wenwen Gao, Shangsong Liu, Yi Zhou, **Fengjie Wang**, Feng Zhou and Min Zhu
 
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  ChinaVis 2023.
+
+  <!-- [PDF]()
+  |
+  [Demo]() -->
   </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<!-- 23_warehouselens -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CHI 2023</div> -->
+      <img src='images/23_warehouselens.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [WarehouseLens: Visualizing and Exploring Turnover Events of Digital Warehouse](https://link.springer.com/article/10.1007/s12650-023-00913-7)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  Fuqiu Chen, Jizhuo Li, **Fengjie Wang**, Shangsong Liu, Xiaolin Wen, Pengyuan Li and Min Zhu
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  Journal of Visualization, 2023.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  [PDF](papers/23_warehouselens.pdf)
+  </div>
+</div>
+
+<!-- 23_diffseer -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CHI 2023</div> -->
+      <img src='images/23_diffseer.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [	DiffSeer: Difference-based Dynamic Weighted Graph Visualization](https://ieeexplore.ieee.org/abstract/document/10078374)
+
+  Xiaolin Wen, Yong Wang, Meixuan Wu, **Fengjie Wang**, Xuanwu Yue, Qiaomu Shen, Yuxin Ma, Min Zhu
+
+  IEEE Computer Graphics and Application, 2023.
+  
+  [PDF](papers/23_diffseer.pdf)
+  </div>
+</div>
+
+<!-- 22_triplan -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CHI 2023</div> -->
+      <img src='images/22_triplan.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [TriPlan: An Interactive Visual Analytics Approach for Better Tourism Route Planning](https://link.springer.com/article/10.1007/s12650-022-00861-8)
+
+  Xinyi Zhang, Xiao Pang, Xiaolin Wen, **Fengjie Wang**, Changlin Li, Min Zhu.
+  
+  Journal of Visualization, 2022.
+  
+  [PDF](papers/22_triplan.pdf)
+  </div>
+</div>
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Educations
+- *2021.09 - 2024.06 (Expected)*, Master's Degree, Computer Science and Technology, Sichuan University, China.
+- *2017.09 - 2021.06*, Bachelar's Degree, Computer Science and Technology, Sichuan University, China.
+
+
+# 🌟 Experiences
+- *2023.05 - 2023.10*, Visiting Student Researcher, HKUST VisLab, Hong Kong University of Science and Technology, Hong Kong, China.
+- *2022.05 - 2023.04*, Visiting Student Researcher, the Waterloo Visualization (WatVis) Group, University of Waterloo, Waterloo, Canada.
+
+
+# 💡 Activities
+- *2024.01*, Organizer and host for the talk "Visualization for Emotion, Fraud, and Quantum Computing" with speakers [Xingyu Lan](https://olivialan.github.io/), [Shaolun Ruan](https://shaolun-ruan.com/index.html), [Xiaolin Wen](https://selvalim.github.io/homepage/), Sichuan University, Chengdu, China.
+- *2023.04*, Paper Presentation ([Slide4N](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)) in CHI 2023, Hamburg, Germany.
+- *2022.07*, Participation in ChinaVis 2022, Xining, China.
+- *2022.06*, Participation in ChinaVis Challenge 2022.
+- *2021.07*, Participation in International Visualization Summer School, Peking Univerisity, China.
+- *2021.07*, Participation in International Visualization Summer School, Zhejiang Univerisity, China.
+- *2021.06*, Participation in ChinaVis Challenge 2021.
+
+
+# 🏅 Honors and Awards
+- *2024.01*, Comprehensive Quality A Grade Certificate of Sichuan Province
+- *2023.10*, National Scholarship of China (Top 1%)
+- *2023.09*, First Class Scholarship of Sichuan University for Graduate Students
+- *2023.09*, Outstanding Graduate Students of Sichuan Province
+- *2022.07*, Third Award, ChinaVis Challenge 2022
+- *2021.06*, Star of Computer Science in Sichuan University
+- *2021.04*, Outstanding Undergraduate Students of Sichuan Province
+- *2020.06*, Excellent Completion of Provincial Student Innovation Training Project
+- *2019.12*, National Scholarship of China (Top 1%)
+- *2019.11*, First Class Scholarship of Sichuan University for Undergraduate Students
+- *2019.05*, Meritorious Winner of the International Mathematical Contest in Modeling by COMAP
+
+
+# 📃 CV
+[Check my latest CV.](cv/CV_Fengjie_Wang_Jan_2024.pdf)

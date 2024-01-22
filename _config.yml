@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fengjie Wang (FF)"
-description              : "FF's personal website"
+description              : "Master Student in Human-Computer Interaction and Visualization"
 repository               : "ff0820/fengjie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,8 +28,9 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=IY0OI6kAAAAJ"
+  semanticscholar  : # "https://www.semanticscholar.org/author/Fengjie-Wang/2128185918"
   email            : "ff11060820@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
