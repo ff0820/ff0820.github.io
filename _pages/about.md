@@ -22,12 +22,12 @@ Before that, I received my bachelor's degree in Computer Science and Technology 
 
 My research interests primarily revolve around human-computer interaction, interactive tools for data science, presentation support for computational notebooks.
 
-This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://vis.cse.ust.hk/index.html) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
+This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://huamin.org/) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
 
 <mark style="background-color: #96d1e9">I am looking for 2024 Fall PhD positions in Human-Computer Interaction and Visualization!</mark>
 
-# 🔥 News
-- *2024.01.19*: &nbsp;🎉 Our paper *** Computational Notebooks through Outlines is conditionally accepted to CHI' 2024.
+# 🔈 News
+- *2024.01.19*: &nbsp;🎉 Our paper *\*\*\* Computational Notebooks through Outlines* is conditionally accepted to CHI' 2024.
 - *2023.10.01*: &nbsp;🔥 Awarded the National Scholarship of China (Top 1%).
 - *2023.09.30*: &nbsp;🔥 Awarded the Outstanding Graduate Students of Sichuan Province.
 - *2023.09.01*: &nbsp;🔥 Awarded the First Class Scholarship of Sichuan University for Graduate Students.
@@ -36,6 +36,8 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
 
 # 📝 Publications 
+More publications can be found in [Google Scholar](https://scholar.google.com.hk/citations?user=IY0OI6kAAAAJ).
+
 † indicates equal contribution.
 
 <!-- 23_slide4n -->
@@ -166,18 +168,29 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
 
 # 🎓 Educations
-- *2021.09 - 2024.06 (Expected)*, Master's Degree, Computer Science and Technology, Sichuan University, China.
-- *2017.09 - 2021.06*, Bachelar's Degree, Computer Science and Technology, Sichuan University, China.
+- *2021.09 - 2024.06 (Expected)*, Sichuan University, China.
+  - Master's Degree in Computer Science and Technology
+  - Mentor: [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm)
+- *2017.09 - 2021.06*, Sichuan University, China.
+  - Bachelar's Degree in Computer Science and Technology
 
+<!-- - *2021.09 - 2024.06 (Expected)*, Master's Degree, Computer Science and Technology, Sichuan University, China.
+- *2017.09 - 2021.06*, Bachelar's Degree, Computer Science and Technology, Sichuan University, China. -->
 
 # 🌟 Experiences
-- *2023.05 - 2023.10*, Visiting Student Researcher, HKUST VisLab, Hong Kong University of Science and Technology, Hong Kong, China.
-- *2022.05 - 2023.04*, Visiting Student Researcher, the Waterloo Visualization (WatVis) Group, University of Waterloo, Waterloo, Canada.
+- *2023.05 - 2023.10*, Hong Kong University of Science and Technology, Hong Kong, China.
+  - Visiting Student Researcher at the [HKUST VisLab](http://vis.cse.ust.hk/index.html)
+  - Mentor: [Prof. Huamin Qu](http://huamin.org/)
+- *2022.05 - 2023.04*, University of Waterloo, Waterloo, Canada.
+  - Visiting Student Researcher at the [Waterloo Visualization (WatVis) Group](https://www.jeffjianzhao.com/)
+  - Mentor: [Prof. Jian Zhao](https://www.jeffjianzhao.com/)
 
+<!-- - *2023.05 - 2023.10*, Visiting Student Researcher, HKUST VisLab, Hong Kong University of Science and Technology, Hong Kong, China.
+- *2022.05 - 2023.04*, Visiting Student Researcher, the Waterloo Visualization (WatVis) Group, University of Waterloo, Waterloo, Canada. -->
 
 # 💡 Activities
 - *2024.01*, Organizer and host for the talk "Visualization for Emotion, Fraud, and Quantum Computing" with speakers [Xingyu Lan](https://olivialan.github.io/), [Shaolun Ruan](https://shaolun-ruan.com/index.html), [Xiaolin Wen](https://selvalim.github.io/homepage/), Sichuan University, Chengdu, China.
-- *2023.04*, Paper Presentation ([Slide4N](https://dl.acm.org/doi/abs/10.1145/3544548.3580753)) in CHI 2023, Hamburg, Germany.
+- *2023.04*, Paper Presentation ([Slide4N](https://www.youtube.com/watch?v=8srkyc7Utr8&t=3s)) in CHI 2023, Hamburg, Germany.
 - *2022.07*, Participation in ChinaVis 2022, Xining, China.
 - *2022.06*, Participation in ChinaVis Challenge 2022.
 - *2021.07*, Participation in International Visualization Summer School, Peking Univerisity, China.
@@ -187,14 +200,14 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
 # 🏅 Honors and Awards
 - *2024.01*, Comprehensive Quality A Grade Certificate of Sichuan Province
-- *2023.10*, National Scholarship of China (Top 1%)
+- *2023.10*, <mark style="background-color: #96d1e9">National Scholarship of China (Top 1%)</mark>
 - *2023.09*, First Class Scholarship of Sichuan University for Graduate Students
 - *2023.09*, Outstanding Graduate Students of Sichuan Province
 - *2022.07*, Third Award, ChinaVis Challenge 2022
 - *2021.06*, Star of Computer Science in Sichuan University
 - *2021.04*, Outstanding Undergraduate Students of Sichuan Province
 - *2020.06*, Excellent Completion of Provincial Student Innovation Training Project
-- *2019.12*, National Scholarship of China (Top 1%)
+- *2019.12*, <mark style="background-color: #96d1e9">National Scholarship of China (Top 1%)</mark>
 - *2019.11*, First Class Scholarship of Sichuan University for Undergraduate Students
 - *2019.05*, Meritorious Winner of the International Mathematical Contest in Modeling by COMAP
 
