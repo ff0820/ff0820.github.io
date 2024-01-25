@@ -27,7 +27,7 @@ This passion, cultivated and refined during my research internships with [Prof. 
 <mark style="background-color: #96d1e9">I am looking for 2024 Fall PhD positions in Human-Computer Interaction and Visualization!</mark>
 
 # 🔈 News
-- *2024.01.19*: &nbsp;🎉 Our paper *\*\*\* Computational Notebooks through Outlines* is conditionally accepted to CHI' 2024.
+- *2024.01.19*: &nbsp;🎉 Our paper *\*\*\* Computational Notebooks through Outlines* is conditionally accepted to **CHI' 2024**.
 - *2023.10.01*: &nbsp;🔥 Awarded the National Scholarship of China (Top 1%).
 - *2023.09.30*: &nbsp;🔥 Awarded the Outstanding Graduate Students of Sichuan Province.
 - *2023.09.01*: &nbsp;🔥 Awarded the First Class Scholarship of Sichuan University for Graduate Students.
@@ -212,5 +212,5 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 - *2019.05*, Meritorious Winner of the International Mathematical Contest in Modeling by COMAP
 
 
-# 📃 CV
-[Check my latest CV.](cv/CV_Fengjie_Wang_Jan_2024.pdf)
+<!-- # 📃 CV
+[Check my latest CV.](cv/CV_Fengjie_Wang_Jan_2024.pdf) -->

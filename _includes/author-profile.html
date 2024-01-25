@@ -109,6 +109,9 @@
       {% if author.semanticscholar %}
         <li><a href="{{ author.semanticscholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Semantic Scholar</a></li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}"><i class="ai ai-cv-square ai-fw"></i> CV</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -206,6 +209,9 @@
       {% endif %}
       {% if author.semanticscholar %}
         <a href="{{ author.semanticscholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      {% endif %}
+      {% if author.cv %}
+        <a href="{{ author.cv }}"><i class="ai ai-cv-square ai-fw"></i></a>
       {% endif %}
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
