@@ -20,14 +20,14 @@ redirect_from:
 I am currently a final-year master's student in the [Colledge of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/).
 Before that, I received my bachelor's degree in Computer Science and Technology from Sichuan University in 2021.
 
-My research interests primarily revolve around human-computer interaction, interactive tools for data science, presentation support for computational notebooks.
+My research interests primarily revolve around **<u>human-computer interaction, interactive tools for data science, presentation support for computational notebooks</u>**.
 
 This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://huamin.org/) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
 
-<mark style="background-color: #96d1e9">I am looking for 2024 Fall PhD positions in Human-Computer Interaction and Visualization!</mark>
+<mark style="background-color: #96d1e9">I would like to start my PhD journey in 2024 Fall!</mark>
 
 # 🔈 News
-- *2024.01.19*: &nbsp;🎉 Our paper *\*\*\* Computational Notebooks through Outlines* is conditionally accepted to **CHI' 2024**.
+- <mark style="background-color: #96d1e9">2024.03.12</mark>: &nbsp;🎉🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
 - *2023.10.01*: &nbsp;🔥 Awarded the National Scholarship of China (Top 1%).
 - *2023.09.30*: &nbsp;🔥 Awarded the Outstanding Graduate Students of Sichuan Province.
 - *2023.09.01*: &nbsp;🔥 Awarded the First Class Scholarship of Sichuan University for Graduate Students.
@@ -39,6 +39,29 @@ This passion, cultivated and refined during my research internships with [Prof. 
 More publications can be found in [Google Scholar](https://scholar.google.com.hk/citations?user=IY0OI6kAAAAJ).
 
 † indicates equal contribution.
+
+<!-- 24_outlinespark -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CHI 2024</div>
+      <img src='images/24_outlinespark.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines](papers/24_outlinespark.pdf)
+
+  **Fengjie Wang**, Yanna Lin, Leni Yang, Haotian Li, Mingyang Gu, Min Zhu, and Huamin Qu
+
+  ACM CHI Conference on Human Factors in Computing Systems, 2024 (CHI 2024).
+
+  [PDF](papers/24_outlinespark.pdf)
+  |
+  [Demo](https://youtu.be/bTyDdI2ll98)
+  |
+  [Preview](https://youtu.be/NAgpjTaWyZs)
+  </div>
+</div>
 
 <!-- 23_slide4n -->
 <div class='paper-box'>
