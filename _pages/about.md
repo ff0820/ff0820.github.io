@@ -60,6 +60,8 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
   [Demo](https://youtu.be/bTyDdI2ll98)
   |
   [Preview](https://youtu.be/NAgpjTaWyZs)
+  |
+  [arXiv](https://arxiv.org/abs/2403.09121)
   </div>
 </div>
 
