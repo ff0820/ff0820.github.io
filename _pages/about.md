@@ -103,7 +103,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 
   Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, Changjian Chen, Zixin Chen, **Fengjie Wang**, Min Zhu, and Huamin Qu
 
-  IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
+  IEEE Transactions on Visualization and Computer Graphics, 2023 (VIS 2023).
 
   [PDF](papers/23_videopro.pdf)
   |
@@ -113,7 +113,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
   </div>
 </div>
 
-<!-- 23_GBDT4CTRVis -->
+<!-- 24_GBDT4CTRVis -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -126,11 +126,9 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 
   Wenwen Gao, Shangsong Liu, Yi Zhou, **Fengjie Wang**, Feng Zhou and Min Zhu
 
-  ChinaVis 2023.
+  Journal of Visualization, 2024 (ChinaVis 2023).
 
-  <!-- [PDF]()
-  |
-  [Demo]() -->
+  [PDF](papers/24_GBDT4CTRVis.pdf)
   </div>
 </div>
 
@@ -187,7 +185,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
   
   Journal of Visualization, 2022.
   
-  [PDF](papers/22_triplan.pdf)
+  [PDF](papers/22_TriPlan.pdf)
   </div>
 </div>
 
