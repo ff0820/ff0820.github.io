@@ -20,11 +20,11 @@ redirect_from:
 I am currently a final-year master's student in the [Colledge of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/).
 Before that, I received my bachelor's degree in Computer Science and Technology from Sichuan University in 2021.
 
-My research interests primarily revolve around **<u>human-computer interaction, interactive tools for data science, presentation support for computational notebooks</u>**.
+My research interests primarily revolve around **<u>human-computer interaction, human-notebook interaction, interactive tools for data science</u>**.
 
 This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://huamin.org/) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
 
-<mark style="background-color: #96d1e9">I would like to start my PhD journey in 2024 Fall!</mark>
+<mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark>
 
 # 🔈 News
 - <mark style="background-color: #96d1e9">2024.03.12</mark>: &nbsp;🎉🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
@@ -49,7 +49,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines](papers/24_outlinespark.pdf)
+  [OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines](https://dl.acm.org/doi/10.1145/3613904.3642865)
 
   **Fengjie Wang**, Yanna Lin, Leni Yang, Haotian Li, Mingyang Gu, Min Zhu, and Huamin Qu
 
