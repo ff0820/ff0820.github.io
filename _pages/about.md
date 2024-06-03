@@ -61,6 +61,8 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
   |
   [Preview](https://youtu.be/NAgpjTaWyZs)
   |
+  [Presentation](https://www.youtube.com/watch?v=ArfWlqeekGk&list=PLVFD_4R-0zoy8jfaiCTZET88Yd3e4sk_8&index=9)
+  |
   [arXiv](https://arxiv.org/abs/2403.09121)
   </div>
 </div>
@@ -212,6 +214,8 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 - *2022.05 - 2023.04*, Visiting Student Researcher, the Waterloo Visualization (WatVis) Group, University of Waterloo, Waterloo, Canada. -->
 
 # 💡 Activities
+- *2024.05*, CHI 2024 Conference Experience Sharing, including "Traveling, Paper-centered Conference (Be an author, Be a Presenter, Be an audience), Connection-centered Conference (Who to Talk to, How to Start a Conversation, What to Avoid, and When to End)", in Vision Computing Lab, Sichuan University, Chengdu, China.
+- *2024.05*, In-person Paper Presentation ([OutlineSpark](https://www.youtube.com/watch?v=ArfWlqeekGk&list=PLVFD_4R-0zoy8jfaiCTZET88Yd3e4sk_8&index=9)) in CHI 2024, Honolulu, USA.
 - *2024.01*, Organizer and host for the talk "Visualization for Emotion, Fraud, and Quantum Computing" with speakers [Xingyu Lan](https://olivialan.github.io/), [Shaolun Ruan](https://shaolun-ruan.com/index.html), [Xiaolin Wen](https://selvalim.github.io/homepage/), Sichuan University, Chengdu, China.
 - *2023.04*, Paper Presentation ([Slide4N](https://www.youtube.com/watch?v=8srkyc7Utr8&t=3s)) in CHI 2023, Hamburg, Germany.
 - *2022.07*, Participation in ChinaVis 2022, Xining, China.
