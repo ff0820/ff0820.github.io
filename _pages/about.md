@@ -32,7 +32,7 @@ This passion, cultivated and refined during my research internships with [Prof. 
 
 # 🔈 News
 - <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Graduated from Sichuan University and received my master's degree.
-- <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Awarded Excellent Master's Thesis of Sichuan University.
+- <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Awarded Excellent Master Thesis of Sichuan University.
 - <mark style="background-color: #96d1e9">2024.06.18</mark>: 🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
 - *2024.03.12*: 🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
 - *2023.10.01*: Awarded the National Scholarship of China (Top 1%).
@@ -233,7 +233,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 
 
 # 🏅 Honors and Awards
-- *2024.06*, Awarded Excellent Master's Thesis of Sichuan University
+- *2024.06*, Excellent Master Thesis of Sichuan University
 - *2024.06*, Speaking as a Valedictorian in the College of Computer Science, Sichuan University
 - *2024.01*, Comprehensive Quality A Grade Certificate of Sichuan Province
 - *2023.10*, <mark style="background-color: #96d1e9">National Scholarship of China (Top 1%)</mark>
