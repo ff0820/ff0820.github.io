@@ -31,15 +31,15 @@ This passion, cultivated and refined during my research internships with [Prof. 
 <!-- <mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark> -->
 
 # 🔈 News
-- <mark style="background-color: #96d1e9">2024.06</mark>: &nbsp;🎉 Graduated from Sichuan University and received my master's degree.
-- <mark style="background-color: #96d1e9">2024.06</mark>: &nbsp;🎉 Awarded Excellent Master's Thesis of Sichuan University.
-- <mark style="background-color: #96d1e9">2024.06.18</mark>: &nbsp;🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
-- *2024.03.12*: &nbsp;🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
-- *2023.10.01*: &nbsp; Awarded the National Scholarship of China (Top 1%).
-- *2023.09.30*: &nbsp; Awarded the Outstanding Graduate Students of Sichuan Province.
-- *2023.09.01*: &nbsp; Awarded the First Class Scholarship of Sichuan University for Graduate Students.
-- *2023.07.16*: &nbsp; Our paper *VideoPro: A Visual Analytics Approach for Interactive Video Programming* is accepted to **VIS'2023**. Congrats. to [Jianben He](https://jessiehe970311.github.io/). Check the paper [here](https://ieeexplore.ieee.org/abstract/document/10292616?casa_token=53ZRqOhT41cAAAAA:W4I9cl-2Op28eU5qNcSC7-_QHdXmh0I-9dU-FoBBrSlXepv1OcPRrB7OiB2L_wu4RZ_-mG7Ncg).
-- *2023.03.03*: &nbsp; Our paper *Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration* is accepted to **CHI'2023**. Check the paper [here](https://dl.acm.org/doi/abs/10.1145/3544548.3580753).
+- <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Graduated from Sichuan University and received my master's degree.
+- <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Awarded Excellent Master's Thesis of Sichuan University.
+- <mark style="background-color: #96d1e9">2024.06.18</mark>: 🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
+- *2024.03.12*: 🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
+- *2023.10.01*: Awarded the National Scholarship of China (Top 1%).
+- *2023.09.30*: Awarded the Outstanding Graduate Students of Sichuan Province.
+- *2023.09.01*: Awarded the First Class Scholarship of Sichuan University for Graduate Students.
+- *2023.07.16*: Our paper *VideoPro: A Visual Analytics Approach for Interactive Video Programming* is accepted to **VIS'2023**. Congrats. to [Jianben He](https://jessiehe970311.github.io/). Check the paper [here](https://ieeexplore.ieee.org/abstract/document/10292616?casa_token=53ZRqOhT41cAAAAA:W4I9cl-2Op28eU5qNcSC7-_QHdXmh0I-9dU-FoBBrSlXepv1OcPRrB7OiB2L_wu4RZ_-mG7Ncg).
+- *2023.03.03*: Our paper *Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration* is accepted to **CHI'2023**. Check the paper [here](https://dl.acm.org/doi/abs/10.1145/3544548.3580753).
 
 
 # 📝 Publications 
