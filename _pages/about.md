@@ -17,22 +17,29 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am currently a final-year master's student in the [Colledge of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/).
-Before that, I received my bachelor's degree in Computer Science and Technology from Sichuan University in 2021.
+I am an incoming PhD student this Fall in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
 
-My research interests primarily revolve around **<u>human-computer interaction, human-notebook interaction, interactive tools for data science</u>**.
+<!-- I am currently a final-year master's student in the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/). -->
 
-This passion, cultivated and refined during my research internships with [Prof. Huamin Qu](http://huamin.org/) at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), and [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/).
+This June, I received my master's degree with honor in Computer Science and Technology from Sichuan University, under the supervision of [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm).
+In 2021, I received my bachelor's degree in Computer Science and Technology from Sichuan University.
 
-<mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark>
+My research interests primarily revolve around **<u>human-notebook interaction, interactive tools for data science, human-computer interaction</u>**.
+
+This passion, cultivated and refined during my research internships with [Prof. Jian Zhao at the University of Waterloo](https://www.jeffjianzhao.com/), and [Prof. Huamin Qu at the Hong Kong University of Science and Technology](http://huamin.org/).
+
+<!-- <mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark> -->
 
 # 🔈 News
-- <mark style="background-color: #96d1e9">2024.03.12</mark>: &nbsp;🎉🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
-- *2023.10.01*: &nbsp;🔥 Awarded the National Scholarship of China (Top 1%).
-- *2023.09.30*: &nbsp;🔥 Awarded the Outstanding Graduate Students of Sichuan Province.
-- *2023.09.01*: &nbsp;🔥 Awarded the First Class Scholarship of Sichuan University for Graduate Students.
-- *2023.07.16*: &nbsp;🎉 Our paper *VideoPro: A Visual Analytics Approach for Interactive Video Programming* is accepted to **VIS'2023**. Congrats. to [Jianben He](https://jessiehe970311.github.io/). Check the paper [here](https://ieeexplore.ieee.org/abstract/document/10292616?casa_token=53ZRqOhT41cAAAAA:W4I9cl-2Op28eU5qNcSC7-_QHdXmh0I-9dU-FoBBrSlXepv1OcPRrB7OiB2L_wu4RZ_-mG7Ncg).
-- *2023.03.03*: &nbsp;🎉 Our paper *Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration* is accepted to **CHI'2023**. Check the paper [here](https://dl.acm.org/doi/abs/10.1145/3544548.3580753).
+- <mark style="background-color: #96d1e9">2024.06</mark>: &nbsp;🎉 Graduated from Sichuan University and received my master's degree.
+- <mark style="background-color: #96d1e9">2024.06</mark>: &nbsp;🎉 Awarded Excellent Master's Thesis of Sichuan University.
+- <mark style="background-color: #96d1e9">2024.06.18</mark>: &nbsp;🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
+- *2024.03.12*: &nbsp;🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
+- *2023.10.01*: &nbsp; Awarded the National Scholarship of China (Top 1%).
+- *2023.09.30*: &nbsp; Awarded the Outstanding Graduate Students of Sichuan Province.
+- *2023.09.01*: &nbsp; Awarded the First Class Scholarship of Sichuan University for Graduate Students.
+- *2023.07.16*: &nbsp; Our paper *VideoPro: A Visual Analytics Approach for Interactive Video Programming* is accepted to **VIS'2023**. Congrats. to [Jianben He](https://jessiehe970311.github.io/). Check the paper [here](https://ieeexplore.ieee.org/abstract/document/10292616?casa_token=53ZRqOhT41cAAAAA:W4I9cl-2Op28eU5qNcSC7-_QHdXmh0I-9dU-FoBBrSlXepv1OcPRrB7OiB2L_wu4RZ_-mG7Ncg).
+- *2023.03.03*: &nbsp; Our paper *Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration* is accepted to **CHI'2023**. Check the paper [here](https://dl.acm.org/doi/abs/10.1145/3544548.3580753).
 
 
 # 📝 Publications 
@@ -193,7 +200,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 
 
 # 🎓 Educations
-- *2021.09 - 2024.06 (Expected)*, Sichuan University, China.
+- *2021.09 - 2024.06*, Sichuan University, China.
   - Master's Degree in Computer Science and Technology
   - Mentor: [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm)
 - *2017.09 - 2021.06*, Sichuan University, China.
@@ -226,6 +233,8 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 
 
 # 🏅 Honors and Awards
+- *2024.06*, Awarded Excellent Master's Thesis of Sichuan University
+- *2024.06*, Speaking as a Valedictorian in the College of Computer Science, Sichuan University
 - *2024.01*, Comprehensive Quality A Grade Certificate of Sichuan Province
 - *2023.10*, <mark style="background-color: #96d1e9">National Scholarship of China (Top 1%)</mark>
 - *2023.09*, First Class Scholarship of Sichuan University for Graduate Students

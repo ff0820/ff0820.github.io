@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fengjie Wang (王凤杰)"
-description              : "Master Student in Human-Computer Interaction and Visualization"
+title                    : "Fengjie Wang (王凤杰, FF)"
+description              : "Incoming PhD Student in Human-Computer Interaction and Visualization"
 repository               : "ff0820/fengjie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fengjie Wang (王凤杰, FF)"
   avatar           : "images/ff.png"
-  bio              : "Sichuan Univesity"
-  location         : "Chengdu, China"
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=IY0OI6kAAAAJ"
