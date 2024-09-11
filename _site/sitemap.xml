@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/papers/22_TriPlan.pdf</loc>
+<lastmod>2024-01-22T17:21:42+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/23_diffseer.pdf</loc>
+<lastmod>2024-01-22T17:16:17+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/23_slide4n.pdf</loc>
+<lastmod>2024-01-22T16:56:34+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/23_videopro.pdf</loc>
+<lastmod>2024-01-22T14:29:32+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/23_warehouselens.pdf</loc>
+<lastmod>2024-01-22T17:08:29+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/24_GBDT4CTRVis.pdf</loc>
+<lastmod>2024-04-11T15:20:14+08:00</lastmod>
+</url>
+<url>
+<loc>/papers/24_outlinespark.pdf</loc>
+<lastmod>2024-03-13T23:13:15+08:00</lastmod>
+</url>
+</urlset>
