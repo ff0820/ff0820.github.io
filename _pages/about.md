@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student this Winter in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
+I am an incoming 2025 PhD student in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
 
 <!-- I am currently a final-year master's student in the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/). -->
 
