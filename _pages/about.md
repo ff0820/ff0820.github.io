@@ -31,9 +31,9 @@ This passion, cultivated and refined during my research internships with [Prof. 
 <!-- <mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark> -->
 
 # 🔈 News
-- *2024.11*: 🎉 Very happy and excited to start my journey at Nanyang Technological University (NTU) as a Research Assistant (RA) with [Prof. Yong Wang](https://yong-wang.org/index.html).
+- <mark style="background-color: #96d1e9">2024.11.28</mark>: 🎉 Very happy and excited to start my journey at Nanyang Technological University (NTU) as a Research Assistant (RA) with [Prof. Yong Wang](https://yong-wang.org/index.html).
 - *2024.06*: Graduated from Sichuan University and received my master's degree.
-- <mark style="background-color: #96d1e9">2024.06</mark>: Awarded Excellent Master Thesis of Sichuan University.
+- *2024.06*: Awarded Excellent Master Thesis of Sichuan University.
 - <mark style="background-color: #96d1e9">2024.06.18</mark>: 🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
 - *2024.03.12*: 🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
 - *2023.10.01*: Awarded the National Scholarship of China (Top 1%).
