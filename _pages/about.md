@@ -17,7 +17,8 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am an incoming 2025 PhD student in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
+I am an incoming PhD student for 2025 in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
+This November, I start to work with [Prof. Yong Wang](https://yong-wang.org/index.html) at [Nanyang Technological University](https://www.ntu.edu.sg/computing) as a Research Assistant.
 
 <!-- I am currently a final-year master's student in the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/). -->
 
@@ -25,14 +26,14 @@ This June, I received my master's degree with honor in Computer Science and Tech
 In 2021, I received my bachelor's degree in Computer Science and Technology from Sichuan University.
 
 My research interests primarily revolve around **<u>human-notebook interaction, interactive tools for data science, human-computer interaction</u>**.
-
 This passion, cultivated and refined during my research internships with [Prof. Jian Zhao at the University of Waterloo](https://www.jeffjianzhao.com/), and [Prof. Huamin Qu at the Hong Kong University of Science and Technology](http://huamin.org/).
 
 <!-- <mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark> -->
 
 # 🔈 News
-- *2024.06*: 🎉 Graduated from Sichuan University and received my master's degree.
-- <mark style="background-color: #96d1e9">2024.06</mark>: 🎉 Awarded Excellent Master Thesis of Sichuan University.
+- *2024.11*: 🎉 Very happy and excited to start my journey at Nanyang Technological University (NTU) as a Research Assistant (RA) with [Prof. Yong Wang](https://yong-wang.org/index.html).
+- *2024.06*: Graduated from Sichuan University and received my master's degree.
+- <mark style="background-color: #96d1e9">2024.06</mark>: Awarded Excellent Master Thesis of Sichuan University.
 - <mark style="background-color: #96d1e9">2024.06.18</mark>: 🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
 - *2024.03.12*: 🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
 - *2023.10.01*: Awarded the National Scholarship of China (Top 1%).
