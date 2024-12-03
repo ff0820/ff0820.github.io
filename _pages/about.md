@@ -17,8 +17,12 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student for 2025 in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
-This November, I start to work with [Prof. Yong Wang](https://yong-wang.org/index.html) at [Nanyang Technological University](https://www.ntu.edu.sg/computing) as a Research Assistant.
+I am an incoming PhD student for 2025 in the School of Computer Science at University of Waterloo, supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/).
+This November, I start to work with [Prof. Yong Wang](https://yong-wang.org/index.html) at Nanyang Technological University as a Research Assistant.
+
+<!-- more links -->
+<!-- I am an incoming PhD student for 2025 in the [School of Computer Science at University of Waterloo](https://cs.uwaterloo.ca/), supervised by [Prof. Jian Zhao](https://www.jeffjianzhao.com/). -->
+<!-- This November, I start to work with [Prof. Yong Wang](https://yong-wang.org/index.html) at [Nanyang Technological University](https://www.ntu.edu.sg/computing) as a Research Assistant. -->
 
 <!-- I am currently a final-year master's student in the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Min Zhu](https://cs.scu.edu.cn/info/1135/9894.htm) in [SCU VIS](https://scuvis.org/about/). -->
 
@@ -26,13 +30,13 @@ This June, I received my master's degree with honor in Computer Science and Tech
 In 2021, I received my bachelor's degree in Computer Science and Technology from Sichuan University.
 
 My research interests primarily revolve around **<u>human-notebook interaction, interactive tools for data science, human-computer interaction</u>**.
-This passion, cultivated and refined during my research internships with [Prof. Jian Zhao at the University of Waterloo](https://www.jeffjianzhao.com/), and [Prof. Huamin Qu at the Hong Kong University of Science and Technology](http://huamin.org/).
+<!-- This passion, cultivated and refined during my research internships with [Prof. Jian Zhao](https://www.jeffjianzhao.com/) at the University of Waterloo, and [Prof. Huamin Qu](http://huamin.org/) at the Hong Kong University of Science and Technology. -->
 
 <!-- <mark style="background-color: #96d1e9">I will start my PhD journey with Prof. Jian Zhao in University of Waterloo this Fall!</mark> -->
 
 # 🔈 News
 - <mark style="background-color: #96d1e9">2024.11.28</mark>: 🎉 Very happy and excited to start my journey at Nanyang Technological University (NTU) as a Research Assistant (RA) with [Prof. Yong Wang](https://yong-wang.org/index.html).
-- *2024.06*: Graduated from Sichuan University and received my master's degree.
+- *2024.06*: Graduated from Sichuan University and received my master's degree with honor.
 - *2024.06*: Awarded Excellent Master Thesis of Sichuan University.
 - <mark style="background-color: #96d1e9">2024.06.18</mark>: 🎉 Speaking as a representative of graduate students in the College of Computer Science, Sichuan University.
 - *2024.03.12*: 🔥 Our paper *OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines* is accepted to **CHI' 2024**. Check the paper [here](papers/24_outlinespark.pdf).
@@ -132,7 +136,7 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction
+  [GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction](https://link.springer.com/article/10.1007/s12650-024-00984-0)
 
   Wenwen Gao, Shangsong Liu, Yi Zhou, **Fengjie Wang**, Feng Zhou and Min Zhu
 
@@ -211,6 +215,9 @@ More publications can be found in [Google Scholar](https://scholar.google.com.hk
 - *2017.09 - 2021.06*, Bachelar's Degree, Computer Science and Technology, Sichuan University, China. -->
 
 # 🌟 Experiences
+- *2024.11 - Now*, Nanyang Technological Univerisity, Singapore.
+  - Research Assistant at the [VIDA Lab](https://yong-wang.org/index.html)
+  - Mentor: [Prof. Yong Wang](https://yong-wang.org/index.html)
 - *2023.05 - 2023.10*, Hong Kong University of Science and Technology, Hong Kong, China.
   - Visiting Student Researcher at the [HKUST VisLab](http://vis.cse.ust.hk/index.html)
   - Mentor: [Prof. Huamin Qu](http://huamin.org/)
